@@ -1,19 +1,69 @@
-# PRODIGY_WD_02
+# ⏱️ Stopwatch Web Application
 
-## Task: Stopwatch Web Application
+## 📌 Project Description
+This project is a simple and interactive **Stopwatch Web Application** built using **HTML, CSS, and JavaScript**. It allows users to measure time with start, pause, and reset functionalities.
 
-### Description:
-This project is a stopwatch web application built using HTML, CSS, and JavaScript.
+---
 
-### Features:
-- Start / Stop / Reset
-- Clean UI
-- Responsive design
+## 🚀 Features
+- ▶️ Start the stopwatch  
+- ⏸️ Pause the stopwatch  
+- 🔄 Reset the stopwatch  
+- ⏱️ Real-time display (HH:MM:SS)  
+- 💻 Responsive and user-friendly UI  
 
-### Technologies Used:
-- HTML
-- CSS
-- JavaScript
+---
 
-### Author:
-Your Name
+## 🛠️ Technologies Used
+- HTML  
+- CSS  
+- JavaScript  
+
+---
+
+## 📂 Project Structure
+index.html
+style.css
+script.js
+README.md
+
+
+---
+
+## 🌍 Live Demo
+https://rivenidabholkar.github.io/PRODIGY_WD_02/
+
+---
+
+## 📁 GitHub Repository
+https://github.com/trivenidabholkar/PRODIGY_WD_02
+
+---
+
+## 📸 Screenshot
+(Add your project screenshot here)
+
+---
+
+## 🎯 Learning Outcomes
+- Understanding of JavaScript timing functions  
+- DOM manipulation skills  
+- Improved UI design knowledge  
+- Hands-on project experience  
+
+---
+
+## 📌 How to Run Locally
+1. Download or clone the repository  
+2. Open `index.html` in any browser  
+3. Use the stopwatch  
+
+---
+
+## 🤝 Acknowledgement
+This project is completed as part of the **Web Development Internship at Prodigy Infotech**.
+
+---
+
+## 📬 Contact
+Connect with me on LinkedIn.
