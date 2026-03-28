@@ -36,7 +36,7 @@ https://kunalbagkar39.github.io/PRODIGY_WD_02/
 ---
 
 ## 📁 GitHub Repository
-https://github.com/trivenidabholkar/PRODIGY_WD_02
+https://github.com/kunalbagkar39/PRODIGY_WD_02.git
 
 ---
 
